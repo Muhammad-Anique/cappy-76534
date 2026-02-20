@@ -9,6 +9,6 @@ Tasks (11 total):
 6. [x] Hero component - components/Hero.tsx (brand intro, "Join Waitlist" CTA)
 7. [x] DesignGrid component - components/DesignGrid.tsx (CSS Grid gallery)
 8. [x] LeadForm component - components/LeadForm.tsx (Name, Phone, Email, validation, Supabase submit)
-9. [ ] Assemble landing page - app/page.tsx (Hero + DesignGrid + LeadForm + Footer)
+9. [x] Assemble landing page - app/page.tsx (Hero + DesignGrid + LeadForm + Footer)
 10. [ ] Gen Z styling pass - high-contrast typography, bold UI
 11. [ ] README - features, tech stack, structure, DB schema, env vars, setup
