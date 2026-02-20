@@ -5,7 +5,7 @@ Tasks (11 total):
 2. [x] Tailwind config - tailwind.config.ts, postcss.config.js
 3. [x] Supabase setup - lib/supabase.ts, .env.local.example (NEXT_PUBLIC_SUPABASE_URL, NEXT_PUBLIC_SUPABASE_ANON_KEY, SUPABASE_SERVICE_ROLE_KEY)
 4. [x] Global styles/layout - app/globals.css, app/layout.tsx
-5. [ ] Footer component - components/Footer.tsx
+5. [x] Footer component - components/Footer.tsx
 6. [ ] Hero component - components/Hero.tsx (brand intro, "Join Waitlist" CTA)
 7. [ ] DesignGrid component - components/DesignGrid.tsx (CSS Grid gallery)
 8. [ ] LeadForm component - components/LeadForm.tsx (Name, Phone, Email, validation, Supabase submit)
