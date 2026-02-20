@@ -3,7 +3,7 @@
 Tasks (11 total):
 1. [x] Init Next.js project - package.json (next, react, react-dom, typescript, tailwindcss, lucide-react, @supabase/supabase-js), next.config.ts, tsconfig.json, .gitignore
 2. [x] Tailwind config - tailwind.config.ts, postcss.config.js
-3. [ ] Supabase setup - lib/supabase.ts, .env.local.example (NEXT_PUBLIC_SUPABASE_URL, NEXT_PUBLIC_SUPABASE_ANON_KEY, SUPABASE_SERVICE_ROLE_KEY)
+3. [x] Supabase setup - lib/supabase.ts, .env.local.example (NEXT_PUBLIC_SUPABASE_URL, NEXT_PUBLIC_SUPABASE_ANON_KEY, SUPABASE_SERVICE_ROLE_KEY)
 4. [ ] Global styles/layout - app/globals.css, app/layout.tsx
 5. [ ] Footer component - components/Footer.tsx
 6. [ ] Hero component - components/Hero.tsx (brand intro, "Join Waitlist" CTA)
