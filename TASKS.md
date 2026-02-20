@@ -1,4 +1,4 @@
-**CAPPY Task List** - Stack: Next.js, TypeScript, Tailwind CSS, Supabase | Repo: https://github.com/Muhammad-Anique/cappy-76534 | Status: In Progress
+**CAPPY Task List** - Stack: Next.js, TypeScript, Tailwind CSS, Supabase | Repo: https://github.com/Muhammad-Anique/cappy-76534 | Status: Complete ✅
 
 Tasks (11 total):
 1. [x] Init Next.js project - package.json (next, react, react-dom, typescript, tailwindcss, lucide-react, @supabase/supabase-js), next.config.ts, tsconfig.json, .gitignore
@@ -11,4 +11,4 @@ Tasks (11 total):
 8. [x] LeadForm component - components/LeadForm.tsx (Name, Phone, Email, validation, Supabase submit)
 9. [x] Assemble landing page - app/page.tsx (Hero + DesignGrid + LeadForm + Footer)
 10. [x] Gen Z styling pass - high-contrast typography, bold UI
-11. [ ] README - features, tech stack, structure, DB schema, env vars, setup
+11. [x] README - features, tech stack, structure, DB schema, env vars, setup
