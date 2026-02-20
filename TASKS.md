@@ -6,7 +6,7 @@ Tasks (11 total):
 3. [x] Supabase setup - lib/supabase.ts, .env.local.example (NEXT_PUBLIC_SUPABASE_URL, NEXT_PUBLIC_SUPABASE_ANON_KEY, SUPABASE_SERVICE_ROLE_KEY)
 4. [x] Global styles/layout - app/globals.css, app/layout.tsx
 5. [x] Footer component - components/Footer.tsx
-6. [ ] Hero component - components/Hero.tsx (brand intro, "Join Waitlist" CTA)
+6. [x] Hero component - components/Hero.tsx (brand intro, "Join Waitlist" CTA)
 7. [ ] DesignGrid component - components/DesignGrid.tsx (CSS Grid gallery)
 8. [ ] LeadForm component - components/LeadForm.tsx (Name, Phone, Email, validation, Supabase submit)
 9. [ ] Assemble landing page - app/page.tsx (Hero + DesignGrid + LeadForm + Footer)
